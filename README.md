@@ -1,1 +1,2 @@
-# samba4-package_for_openwrt
+# Samba4 для OpenWrt (mipsel)
+Пакет Samba4  для OpenWrt из последних источников
